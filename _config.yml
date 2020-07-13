@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: Camp Jeevan
 description: July 27 to August 1, for ages 11+
+github:
+  is_project_page: false
